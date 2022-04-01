@@ -85,3 +85,5 @@ so...
 
 - Add your own country and scores!
 - Add some old-skool videogame icons or animations
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/998c8b4e-cd8e-4a09-ab60-daad20567989/deploy-status)](https://app.netlify.com/sites/cyf-alirezabg-high-score-tables/deploys)
